@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Complete CRM App",
+  "description": "A comprehensive Customer Relationship Management application built with React and Tailwind CSS, featuring customer, supplier, deal, and activity management, along with Gemini AI integration for summarization, commission tracking, data import/export, filtering, sorting, deal forecasting, basic user management (registration/logout), improved mobile responsiveness, comprehensive local data persistence, multi-language support (English, Portuguese), and customizable UI labels.",
+  "requestFramePermissions": []
+}
